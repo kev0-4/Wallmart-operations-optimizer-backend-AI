@@ -9,6 +9,8 @@
 
 This project generates training data for an AI model designed to optimize Walmart's operations. It analyzes product trends, inventory management, sales predictions, and customer behavior insights based on provided datasets.
 After data processing model for fine-tuned using google's AI studio
+![image](https://github.com/user-attachments/assets/ff62b694-8ab1-4651-9925-3ad64fea4760)
+
 ## Features
 
 - Generates diverse prompts for various retail scenarios.
@@ -41,8 +43,8 @@ After data processing model for fine-tuned using google's AI studio
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   ├── external       <- Data from third party sources.
-│   ├── raw            <- Contains raw datasets for analysis.
+│   ├── external -      <- Data from third party sources.
+│   ├── raw  or external          <- Contains raw datasets for analysis.
 │   │    ├── df_Trends.csv
 │   │    ├── df_customerSegmentation.csv
 │   │    └── df_WallmartSales.csv
