@@ -9,6 +9,8 @@
 
 This project generates training data for an AI model designed to optimize Walmart's operations. It analyzes product trends, inventory management, sales predictions, and customer behavior insights based on provided datasets.
 After data processing model for fine-tuned using google's AI studio
+![image](https://github.com/user-attachments/assets/ff62b694-8ab1-4651-9925-3ad64fea4760)
+
 ## Features
 
 - Generates diverse prompts for various retail scenarios.
