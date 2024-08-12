@@ -43,8 +43,8 @@ After data processing model for fine-tuned using google's AI studio
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   ├── external       <- Data from third party sources.
-│   ├── raw            <- Contains raw datasets for analysis.
+│   ├── external -      <- Data from third party sources.
+│   ├── raw  or external          <- Contains raw datasets for analysis.
 │   │    ├── df_Trends.csv
 │   │    ├── df_customerSegmentation.csv
 │   │    └── df_WallmartSales.csv
