@@ -1,0 +1,422 @@
+[
+    {
+        "text_input": "Should we restock Smartwatch? Its current stock is 202 units, and its RestockUrgency is 6.29.",
+        "output": "For Smartwatch, the current stock is 202 units. With a RestockUrgency of 6.29, Consider restocking in the near future. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Mountain Bike? Its current stock is 658 units, and its RestockUrgency is 0.00.",
+        "output": "For Mountain Bike, the current stock is 658 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 18. Current EconomicIndex is 0.73, and last week's sales were $1,079,931.63.",
+        "output": "For Store 18, based on the EconomicIndex of 0.73 and last week's sales of $1,079,931.63, we predict next week's sales to be approximately $1,150,518.78. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Should we restock Earbuds? Its current stock is 367 units, and its RestockUrgency is 10.00.",
+        "output": "For Earbuds, the current stock is 367 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Knee-High Socks? Its current stock is 211 units, and its RestockUrgency is 8.46.",
+        "output": "For Knee-High Socks, the current stock is 211 units. With a RestockUrgency of 8.46, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 33. Current EconomicIndex is 0.69, and last week's sales were $243,477.03.",
+        "output": "For Store 33, based on the EconomicIndex of 0.69 and last week's sales of $243,477.03, we predict next week's sales to be approximately $252,105.34. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "What's the current trend for Scented Candle in the Candles category? Its TrendScore is 100.00.",
+        "output": "The Scented Candle in the current trend for Scented Candle in  category is currently very popular. It has a TrendScore of 100.00, with sales of 507 units and a customer rating of 4.2 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 60+ age group in the Low income bracket. Their average CustomerValue is 434.33.",
+        "output": "The buying patterns of  age group in the 60+ age group in  income bracket represents a high-value customer segment with an average CustomerValue of 434.33. This group tends to prefer clothing. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 45. Current EconomicIndex is 0.97, and last week's sales were $773,819.49.",
+        "output": "For Store 45, based on the EconomicIndex of 0.97 and last week's sales of $773,819.49, we predict next week's sales to be approximately $782,650.82. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "What's the current trend for Puzzle in the Toys & Games category? Its TrendScore is 100.00.",
+        "output": "The Puzzle in the current trend for Puzzle in  category is currently very popular. It has a TrendScore of 100.00, with sales of 660 units and a customer rating of 1.3 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Should we restock Mountain Bike? Its current stock is 748 units, and its RestockUrgency is 10.00.",
+        "output": "For Mountain Bike, the current stock is 748 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 45. Current EconomicIndex is 0.97, and last week's sales were $801,098.43.",
+        "output": "For Store 45, based on the EconomicIndex of 0.97 and last week's sales of $801,098.43, we predict next week's sales to be approximately $807,906.27. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Should we restock Nail Polish? Its current stock is 428 units, and its RestockUrgency is 0.00.",
+        "output": "For Nail Polish, the current stock is 428 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "What's the current trend for Phone Case in the Mobile phone accessories category? Its TrendScore is 100.00.",
+        "output": "The Phone Case in the current trend for Phone Case in  category is currently very popular. It has a TrendScore of 100.00, with sales of 1837 units and a customer rating of 1.8 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Should we restock Dutch Oven? Its current stock is 662 units, and its RestockUrgency is 10.00.",
+        "output": "For Dutch Oven, the current stock is 662 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Tea Cup? Its current stock is 281 units, and its RestockUrgency is 10.00.",
+        "output": "For Tea Cup, the current stock is 281 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Boxers? Its current stock is 972 units, and its RestockUrgency is 0.00.",
+        "output": "For Boxers, the current stock is 972 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Should we restock Bamboo Sheets? Its current stock is 461 units, and its RestockUrgency is 0.00.",
+        "output": "For Bamboo Sheets, the current stock is 461 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the Medium income bracket. Their average CustomerValue is 222.80.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 222.80. This group tends to prefer groceries. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "What's the current trend for Toaster in the Home & Kitchen category? Its TrendScore is 100.00.",
+        "output": "The Toaster in the current trend for Toaster in  category is currently very popular. It has a TrendScore of 100.00, with sales of 1795 units and a customer rating of 2.0 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 38. Current EconomicIndex is 0.63, and last week's sales were $360,857.98.",
+        "output": "For Store 38, based on the EconomicIndex of 0.63 and last week's sales of $360,857.98, we predict next week's sales to be approximately $389,443.10. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Should we restock Soy Candle? Its current stock is 794 units, and its RestockUrgency is 0.00.",
+        "output": "For Soy Candle, the current stock is 794 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "What's the current trend for Canvas Print in the Posters and artwork category? Its TrendScore is 100.00.",
+        "output": "The Canvas Print in the current trend for Canvas Print in  category is currently very popular. It has a TrendScore of 100.00, with sales of 287 units and a customer rating of 1.9 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 41. Current EconomicIndex is 1.02, and last week's sales were $1,305,068.10.",
+        "output": "For Store 41, based on the EconomicIndex of 1.02 and last week's sales of $1,305,068.10, we predict next week's sales to be approximately $1,183,563.76. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "What's the current trend for Knee-High Socks in the Socks category? Its TrendScore is 100.00.",
+        "output": "The Knee-High Socks in the current trend for Knee-High Socks in  category is currently very popular. It has a TrendScore of 100.00, with sales of 572 units and a customer rating of 4.6 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the High income bracket. Their average CustomerValue is 136.67.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 136.67. This group tends to prefer home goods. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Throw Blanket? Its current stock is 282 units, and its RestockUrgency is 10.00.",
+        "output": "For Throw Blanket, the current stock is 282 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 32. Current EconomicIndex is 1.01, and last week's sales were $1,028,635.39.",
+        "output": "For Store 32, based on the EconomicIndex of 1.01 and last week's sales of $1,028,635.39, we predict next week's sales to be approximately $1,022,254.00. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Should we restock Brake Pads? Its current stock is 313 units, and its RestockUrgency is 10.00.",
+        "output": "For Brake Pads, the current stock is 313 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the Medium income bracket. Their average CustomerValue is 304.43.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 304.43. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Leather Jacket? Its current stock is 15 units, and its RestockUrgency is 10.00.",
+        "output": "For Leather Jacket, the current stock is 15 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the High income bracket. Their average CustomerValue is 136.67.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 136.67. This group tends to prefer clothing. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 37. Current EconomicIndex is 1.12, and last week's sales were $505,196.08.",
+        "output": "For Store 37, based on the EconomicIndex of 1.12 and last week's sales of $505,196.08, we predict next week's sales to be approximately $460,990.87. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Should we restock Linen Sheets? Its current stock is 370 units, and its RestockUrgency is 10.00.",
+        "output": "For Linen Sheets, the current stock is 370 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 14. Current EconomicIndex is 1.00, and last week's sales were $2,009,004.59.",
+        "output": "For Store 14, based on the EconomicIndex of 1.00 and last week's sales of $2,009,004.59, we predict next week's sales to be approximately $1,998,430.66. The economic outlook appears stable. Maintain current strategies."
+    },
+    {
+        "text_input": "Should we restock Dutch Oven? Its current stock is 825 units, and its RestockUrgency is 0.00.",
+        "output": "For Dutch Oven, the current stock is 825 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Should we restock Electric Blanket? Its current stock is 226 units, and its RestockUrgency is 10.00.",
+        "output": "For Electric Blanket, the current stock is 226 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Nail Clippers? Its current stock is 660 units, and its RestockUrgency is 0.00.",
+        "output": "For Nail Clippers, the current stock is 660 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 36. Current EconomicIndex is 1.20, and last week's sales were $306,578.89.",
+        "output": "For Store 36, based on the EconomicIndex of 1.20 and last week's sales of $306,578.89, we predict next week's sales to be approximately $298,737.84. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 31. Current EconomicIndex is 1.15, and last week's sales were $1,408,464.08.",
+        "output": "For Store 31, based on the EconomicIndex of 1.15 and last week's sales of $1,408,464.08, we predict next week's sales to be approximately $1,522,766.77. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the Very Low income bracket. Their average CustomerValue is 277.69.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 277.69. This group tends to prefer home goods. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 60+ age group in the High income bracket. Their average CustomerValue is 461.95.",
+        "output": "The buying patterns of  age group in the 60+ age group in  income bracket represents a high-value customer segment with an average CustomerValue of 461.95. This group tends to prefer groceries. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "What's the current trend for Nail Polish in the Nail care category? Its TrendScore is 100.00.",
+        "output": "The Nail Polish in the current trend for Nail Polish in  category is currently very popular. It has a TrendScore of 100.00, with sales of 73 units and a customer rating of 1.1 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "What's the current trend for Thongs in the Underwear category? Its TrendScore is 100.00.",
+        "output": "The Thongs in the current trend for Thongs in  category is currently very popular. It has a TrendScore of 100.00, with sales of 1831 units and a customer rating of 4.5 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Should we restock Nail File? Its current stock is 389 units, and its RestockUrgency is 0.00.",
+        "output": "For Nail File, the current stock is 389 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 46-60 age group in the High income bracket. Their average CustomerValue is 353.03.",
+        "output": "The buying patterns of  age group in the 46-60 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 353.03. This group tends to prefer clothing. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Biography? Its current stock is 704 units, and its RestockUrgency is 10.00.",
+        "output": "For Biography, the current stock is 704 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Coffee Maker? Its current stock is 800 units, and its RestockUrgency is 0.00.",
+        "output": "For Coffee Maker, the current stock is 800 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Should we restock White Wine? Its current stock is 87 units, and its RestockUrgency is 10.00.",
+        "output": "For White Wine, the current stock is 87 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Vitamin D? Its current stock is 45 units, and its RestockUrgency is 10.00.",
+        "output": "For Vitamin D, the current stock is 45 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 8. Current EconomicIndex is 1.22, and last week's sales were $858,572.22.",
+        "output": "For Store 8, based on the EconomicIndex of 1.22 and last week's sales of $858,572.22, we predict next week's sales to be approximately $881,414.50. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "What's the current trend for Electric Blanket in the Blankets category? Its TrendScore is 100.00.",
+        "output": "The Electric Blanket in the current trend for Electric Blanket in  category is currently very popular. It has a TrendScore of 100.00, with sales of 1919 units and a customer rating of 1.1 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 26. Current EconomicIndex is 0.73, and last week's sales were $951,569.84.",
+        "output": "For Store 26, based on the EconomicIndex of 0.73 and last week's sales of $951,569.84, we predict next week's sales to be approximately $937,831.81. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 7. Current EconomicIndex is 1.06, and last week's sales were $642,450.40.",
+        "output": "For Store 7, based on the EconomicIndex of 1.06 and last week's sales of $642,450.40, we predict next week's sales to be approximately $666,260.16. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Should we restock Digital Art? Its current stock is 519 units, and its RestockUrgency is 5.68.",
+        "output": "For Digital Art, the current stock is 519 units. With a RestockUrgency of 5.68, Consider restocking in the near future. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 46-60 age group in the Very High income bracket. Their average CustomerValue is 288.76.",
+        "output": "The buying patterns of  age group in the 46-60 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 288.76. This group tends to prefer home goods. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 30. Current EconomicIndex is 1.12, and last week's sales were $471,054.16.",
+        "output": "For Store 30, based on the EconomicIndex of 1.12 and last week's sales of $471,054.16, we predict next week's sales to be approximately $440,860.17. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Should we restock Road Bike? Its current stock is 787 units, and its RestockUrgency is 0.00.",
+        "output": "For Road Bike, the current stock is 787 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the High income bracket. Their average CustomerValue is 500.72.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 500.72. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 6. Current EconomicIndex is 1.18, and last week's sales were $1,382,783.83.",
+        "output": "For Store 6, based on the EconomicIndex of 1.18 and last week's sales of $1,382,783.83, we predict next week's sales to be approximately $1,299,995.36. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 45. Current EconomicIndex is 0.97, and last week's sales were $678,228.58.",
+        "output": "For Store 45, based on the EconomicIndex of 0.97 and last week's sales of $678,228.58, we predict next week's sales to be approximately $655,673.68. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Should we restock Nail Clippers? Its current stock is 454 units, and its RestockUrgency is 10.00.",
+        "output": "For Nail Clippers, the current stock is 454 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Sweater? Its current stock is 401 units, and its RestockUrgency is 10.00.",
+        "output": "For Sweater, the current stock is 401 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 36. Current EconomicIndex is 1.19, and last week's sales were $331,026.11.",
+        "output": "For Store 36, based on the EconomicIndex of 1.19 and last week's sales of $331,026.11, we predict next week's sales to be approximately $362,588.56. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 38. Current EconomicIndex is 0.67, and last week's sales were $423,260.82.",
+        "output": "For Store 38, based on the EconomicIndex of 0.67 and last week's sales of $423,260.82, we predict next week's sales to be approximately $430,419.62. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 60+ age group in the Very Low income bracket. Their average CustomerValue is 204.78.",
+        "output": "The buying patterns of  age group in the 60+ age group in  income bracket represents a high-value customer segment with an average CustomerValue of 204.78. This group tends to prefer groceries. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Red Wine? Its current stock is 302 units, and its RestockUrgency is 10.00.",
+        "output": "For Red Wine, the current stock is 302 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Should we restock Fleece Blanket? Its current stock is 860 units, and its RestockUrgency is 10.00.",
+        "output": "For Fleece Blanket, the current stock is 860 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 60+ age group in the Very Low income bracket. Their average CustomerValue is 252.76.",
+        "output": "The buying patterns of  age group in the 60+ age group in  income bracket represents a high-value customer segment with an average CustomerValue of 252.76. This group tends to prefer clothing. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the High income bracket. Their average CustomerValue is 159.68.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 159.68. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the Medium income bracket. Their average CustomerValue is 487.96.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 487.96. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 29. Current EconomicIndex is 0.73, and last week's sales were $545,844.91.",
+        "output": "For Store 29, based on the EconomicIndex of 0.73 and last week's sales of $545,844.91, we predict next week's sales to be approximately $598,544.18. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 21. Current EconomicIndex is 1.13, and last week's sales were $943,891.64.",
+        "output": "For Store 21, based on the EconomicIndex of 1.13 and last week's sales of $943,891.64, we predict next week's sales to be approximately $861,885.91. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Should we restock Jeans? Its current stock is 271 units, and its RestockUrgency is 10.00.",
+        "output": "For Jeans, the current stock is 271 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "What's the current trend for Canvas Print in the Posters and artwork category? Its TrendScore is 100.00.",
+        "output": "The Canvas Print in the current trend for Canvas Print in  category is currently very popular. It has a TrendScore of 100.00, with sales of 287 units and a customer rating of 1.9 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the High income bracket. Their average CustomerValue is 323.92.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 323.92. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Art Print? Its current stock is 792 units, and its RestockUrgency is 0.00.",
+        "output": "For Art Print, the current stock is 792 units. With a RestockUrgency of 0.00, Current stock levels seem adequate. Regular monitoring should suffice."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 31-45 age group in the Medium income bracket. Their average CustomerValue is 144.61.",
+        "output": "The buying patterns of  age group in the 31-45 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 144.61. This group tends to prefer home goods. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "What's the current trend for Multivitamin in the Vitamins and supplements category? Its TrendScore is 100.00.",
+        "output": "The Multivitamin in the current trend for Multivitamin in  category is currently very popular. It has a TrendScore of 100.00, with sales of 1518 units and a customer rating of 2.9 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 46-60 age group in the Very Low income bracket. Their average CustomerValue is 177.08.",
+        "output": "The buying patterns of  age group in the 46-60 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 177.08. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 46-60 age group in the Very Low income bracket. Their average CustomerValue is 498.75.",
+        "output": "The buying patterns of  age group in the 46-60 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 498.75. This group tends to prefer groceries. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 60+ age group in the Very Low income bracket. Their average CustomerValue is 294.07.",
+        "output": "The buying patterns of  age group in the 60+ age group in  income bracket represents a high-value customer segment with an average CustomerValue of 294.07. This group tends to prefer groceries. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 25. Current EconomicIndex is 1.16, and last week's sales were $655,157.32.",
+        "output": "For Store 25, based on the EconomicIndex of 1.16 and last week's sales of $655,157.32, we predict next week's sales to be approximately $701,577.74. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 32. Current EconomicIndex is 1.06, and last week's sales were $1,187,384.53.",
+        "output": "For Store 32, based on the EconomicIndex of 1.06 and last week's sales of $1,187,384.53, we predict next week's sales to be approximately $1,154,305.38. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the Very High income bracket. Their average CustomerValue is 254.32.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 254.32. This group tends to prefer electronics. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "What's the current trend for Soy Candle in the Candles category? Its TrendScore is 100.00.",
+        "output": "The Soy Candle in the current trend for Soy Candle in  category is currently very popular. It has a TrendScore of 100.00, with sales of 615 units and a customer rating of 3.6 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 10. Current EconomicIndex is 0.68, and last week's sales were $2,106,934.55.",
+        "output": "For Store 10, based on the EconomicIndex of 0.68 and last week's sales of $2,106,934.55, we predict next week's sales to be approximately $2,001,239.39. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 46-60 age group in the High income bracket. Their average CustomerValue is 176.85.",
+        "output": "The buying patterns of  age group in the 46-60 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 176.85. This group tends to prefer clothing. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Oil Filter? Its current stock is 797 units, and its RestockUrgency is 10.00.",
+        "output": "For Oil Filter, the current stock is 797 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 31-45 age group in the Low income bracket. Their average CustomerValue is 320.24.",
+        "output": "The buying patterns of  age group in the 31-45 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 320.24. This group tends to prefer home goods. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Cotton Socks? Its current stock is 939 units, and its RestockUrgency is 10.00.",
+        "output": "For Cotton Socks, the current stock is 939 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 46-60 age group in the High income bracket. Their average CustomerValue is 483.62.",
+        "output": "The buying patterns of  age group in the 46-60 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 483.62. This group tends to prefer groceries. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Should we restock Microwave? Its current stock is 731 units, and its RestockUrgency is 10.00.",
+        "output": "For Microwave, the current stock is 731 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "What's the current trend for Headphones in the Electronics category? Its TrendScore is 100.00.",
+        "output": "The Headphones in the current trend for Headphones in  category is currently very popular. It has a TrendScore of 100.00, with sales of 466 units and a customer rating of 1.7 out of 5. Consider increasing stock and promotion for this item."
+    },
+    {
+        "text_input": "Should we restock Blush? Its current stock is 287 units, and its RestockUrgency is 10.00.",
+        "output": "For Blush, the current stock is 287 units. With a RestockUrgency of 10.00, Immediate restocking is strongly recommended. Place a new order soon to avoid stockouts."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 29. Current EconomicIndex is 0.69, and last week's sales were $483,011.69.",
+        "output": "For Store 29, based on the EconomicIndex of 0.69 and last week's sales of $483,011.69, we predict next week's sales to be approximately $526,906.48. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 27. Current EconomicIndex is 0.74, and last week's sales were $1,642,074.64.",
+        "output": "For Store 27, based on the EconomicIndex of 0.74 and last week's sales of $1,642,074.64, we predict next week's sales to be approximately $1,512,147.14. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 12. Current EconomicIndex is 0.68, and last week's sales were $922,735.37.",
+        "output": "For Store 12, based on the EconomicIndex of 0.68 and last week's sales of $922,735.37, we predict next week's sales to be approximately $1,012,000.56. The economic outlook appears challenging. Consider increasing promotional activities."
+    },
+    {
+        "text_input": "Describe the buying patterns of the 18-30 age group in the Low income bracket. Their average CustomerValue is 508.00.",
+        "output": "The buying patterns of  age group in the 18-30 age group in  income bracket represents a high-value customer segment with an average CustomerValue of 508.00. This group tends to prefer home goods. Focus on retention strategies and premium offerings."
+    },
+    {
+        "text_input": "Predict next week's sales for Store 1. Current EconomicIndex is 1.14, and last week's sales were $1,503,284.06.",
+        "output": "For Store 1, based on the EconomicIndex of 1.14 and last week's sales of $1,503,284.06, we predict next week's sales to be approximately $1,560,967.83. The economic outlook appears positive. Maintain current strategies."
+    },
+    {
+        "text_input": "There's a strong positive correlation (0.63) between SalesVelocity and Sales. How can we leverage this insight for business strategy?",
+        "output": "The strong positive correlation (0.63) between SalesVelocity and Sales suggests that these factors are closely related. To leverage this insight, consider strategies that boost both simultaneously. For example, if we focus on improving {col1}, we might see a corresponding increase in {col2}. This relationship could be used to optimize resource allocation and marketing strategies."
+    },
+    {
+        "text_input": "There's a strong negative correlation (-0.60) between SalesVelocity and DaysSinceAdded. How can we leverage this insight for business strategy?",
+        "output": "The strong negative correlation (-0.60) between SalesVelocity and DaysSinceAdded suggests that these factors are closely related. To leverage this insight, be cautious about actions that might negatively impact the other. For example, we should monitor {col2} closely when making changes that affect {col1}. This relationship could be used to balance trade-offs in decision-making processes."
+    },
+    {
+        "text_input": "There's a strong positive correlation (0.75) between RestockUrgency and Sales. How can we leverage this insight for business strategy?",
+        "output": "An error occurred while processing this prompt: list index out of range"
+    },
+    {
+        "text_input": "There's a strong positive correlation (0.50) between RestockUrgency and SalesVelocity. How can we leverage this insight for business strategy?",
+        "output": "An error occurred while processing this prompt: list index out of range"
+    },
+    {
+        "text_input": "There's a strong positive correlation (0.93) between EstimatedCost and Price. How can we leverage this insight for business strategy?",
+        "output": "The strong positive correlation (0.93) between EstimatedCost and Price suggests that these factors are closely related. To leverage this insight, consider strategies that boost both simultaneously. For example, if we focus on improving {col1}, we might see a corresponding increase in {col2}. This relationship could be used to optimize resource allocation and marketing strategies."
+    }
+]

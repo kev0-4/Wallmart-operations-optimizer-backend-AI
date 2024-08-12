@@ -1,0 +1,31 @@
+df_Trends: (data/external/EcommerceTrends)
+    Removed: 'City' column (deemed less relevant for trend analysis)
+    Added:
+
+    'DaysSinceAdded': Tracks how long a product has been in the inventory
+    'TrendScore': Combines sales, reviews, rating, and recency to quantify product popularity
+    'RestockUrgency': Indicates how urgently a product needs restocking
+    'SalesVelocity': Measures how quickly a product is selling
+    'ProfitMargin': Estimates the profit margin for each product
+
+df_customerSegmentation :
+    (data/external/Customer Segmentation)
+    Added:
+
+    'CustomerValue': A composite score based on spending, purchase frequency, membership duration, and income
+    'AgeGroup': Categorizes customers into age brackets
+    'IncomeGroup': Segments customers by income levels
+    'LoyaltyScore': Combines membership duration and purchase frequency
+    'LastPurchaseRecency': Simulated data for days since last purchase
+
+df_WallmartSales : (data/external/Wallmart Sales)
+    Added:
+
+    'Year' and 'Month': Extracted from the Date column
+    'SeasonalityIndex': Captures seasonal patterns in sales
+    'RollingAvgSales': 4-week moving average of sales
+    'SalesGrowthRate': Percentage change in sales
+    'EconomicIndex': Combines CPI and Unemployment for economic health indicator
+    'TempCategory': Categorizes temperature into descriptive ranges
+
+-- todo write baki ka stuff for you bozos to understand
